@@ -1,0 +1,90 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Anton', sans-serif;
+}
+
+header{
+	color: red;
+	background-color: black;
+	padding: 3em;
+	text-align: center;
+	font-size: 130%;
+}
+
+figure{
+	padding: 50px;
+	float: left;
+}
+
+img{
+	height: 332px;
+	width: 482px;
+}
+
+.descricao{
+	padding: 60px;
+	margin-left: 50px;
+	float: left;
+}
+
+.descricao > dd{
+	margin: 0 0 0 2em;
+    padding: 0 0 0.5em 0;
+}
+
+section{
+	padding: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: center;
+	clear: both;
+}
+
+.secao{
+	margin-top: 30px;
+	text-align: justify;
+}
+
+.galeria{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px;
+	
+}
+
+.figs{
+	list-style-type: none;
+
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li img{
+	height: 200px;
+	width: 250px;
+}
+
+.video{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px;
+}
+
+.trailer{
+	width: 100%;
+  	max-width: 560px;
+}
+
+footer{
+	padding: 30px;
+	color: red;
+	background-color: black;
+	text-align: center;
+}
+
+footer p{
+	margin-top: 10px;
+}
